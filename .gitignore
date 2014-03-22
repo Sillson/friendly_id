@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Gemfile.lock
 doc
 docs
@@ -11,4 +12,6 @@ coverage
 *.lock
 .rbx
 Guide.md
+=======
+>>>>>>> 2669fee4a281c76c6f30e11ff8935c66db1b2f3b
 .friendly_id
