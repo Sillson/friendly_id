@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 require "rubygems"
 require "rake/testtask"
 
@@ -143,4 +142,4 @@ task 'doc' => [:master, '4.0-stable', '3.3', '2.3'] do
 end
 
 task :default => 'doc'
->>>>>>> 2669fee4a281c76c6f30e11ff8935c66db1b2f3b
+end
